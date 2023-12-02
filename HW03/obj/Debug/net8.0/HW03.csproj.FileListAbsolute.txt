@@ -1,0 +1,15 @@
+D:\GB\Программирование\Lesson_03\Homework\HW03\bin\Debug\net8.0\HW03.exe
+D:\GB\Программирование\Lesson_03\Homework\HW03\bin\Debug\net8.0\HW03.deps.json
+D:\GB\Программирование\Lesson_03\Homework\HW03\bin\Debug\net8.0\HW03.runtimeconfig.json
+D:\GB\Программирование\Lesson_03\Homework\HW03\bin\Debug\net8.0\HW03.dll
+D:\GB\Программирование\Lesson_03\Homework\HW03\bin\Debug\net8.0\HW03.pdb
+D:\GB\Программирование\Lesson_03\Homework\HW03\obj\Debug\net8.0\HW03.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Программирование\Lesson_03\Homework\HW03\obj\Debug\net8.0\HW03.AssemblyInfoInputs.cache
+D:\GB\Программирование\Lesson_03\Homework\HW03\obj\Debug\net8.0\HW03.AssemblyInfo.cs
+D:\GB\Программирование\Lesson_03\Homework\HW03\obj\Debug\net8.0\HW03.csproj.CoreCompileInputs.cache
+D:\GB\Программирование\Lesson_03\Homework\HW03\obj\Debug\net8.0\HW03.sourcelink.json
+D:\GB\Программирование\Lesson_03\Homework\HW03\obj\Debug\net8.0\HW03.dll
+D:\GB\Программирование\Lesson_03\Homework\HW03\obj\Debug\net8.0\refint\HW03.dll
+D:\GB\Программирование\Lesson_03\Homework\HW03\obj\Debug\net8.0\HW03.pdb
+D:\GB\Программирование\Lesson_03\Homework\HW03\obj\Debug\net8.0\HW03.genruntimeconfig.cache
+D:\GB\Программирование\Lesson_03\Homework\HW03\obj\Debug\net8.0\ref\HW03.dll
